@@ -110,4 +110,4 @@ The dataset includes information related to:
 
 ### Dashboard Preview
 
-![Customer Behavior Dashboard](Images/Dashboard.png)
+[![Customer Behavior Dashboard](Images/Dashboard.png)](https://github.com/GURNOOR20010/customer_shopping_behaviorGurnoor-singh/blob/main/Customer%20Behavior%20Dashboard.png)
